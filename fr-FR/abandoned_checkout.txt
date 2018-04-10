@@ -80,7 +80,7 @@ Si vous êtes prêt à compléter votre commande, votre panier attend votre reto
       {% if shop.url %}
     <table class="link secondary-action-cell">
       <tr>
-        <td class="link__cell"><a href="{{ shop.url }}" class="link__text"><span class='or'>or</span> Accéder à la boutique</a></td>
+        <td class="link__cell"><a href="{{ shop.url }}" class="link__text"><span class='or'>ou</span> Accéder à la boutique</a></td>
       </tr>
     </table>
 {% endif %}
